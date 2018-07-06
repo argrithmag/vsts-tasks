@@ -35,12 +35,13 @@
     "minimatch": "3.0.2",
     "minimist": "1.1.1",
     "mocha": "2.3.3",
+    "mocha-junit-reporter": "1.17.0",
     "node-uuid": "1.4.6",
     "q": "1.4.1",
     "semver": "4.3.3",
     "shelljs": "^0.3.0",
     "sync-request": "3.0.1",
     "typescript": "2.3.4",
-    "validator": "3.33.0"
+    "validator": "3.33.0",
   }
 }
